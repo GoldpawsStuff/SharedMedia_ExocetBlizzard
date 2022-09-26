@@ -1,0 +1,17 @@
+package-as: SharedMedia_ExocetBlizzard
+enable-nolib-creation: no
+
+move-folders:
+    SharedMedia_ExocetBlizzard/SharedMedia_ExocetBlizzard: SharedMedia_ExocetBlizzard
+
+manual-changelog:
+    filename: CHANGELOG.md
+    markup-type: markdown
+
+license-output: LICENSE.txt
+
+ignore:
+    - CHANGELOG.md
+    - CODE_OF_CONDUCT.md
+    - LICENSE.md
+    - README.md
