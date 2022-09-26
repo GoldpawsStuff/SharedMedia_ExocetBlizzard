@@ -6,8 +6,8 @@
 ## Author: Lars Norberg
 
 ## X-Category: Plugin
-## X-Curse-Project-ID:
-## X-Wago-ID:
+## X-Curse-Project-ID: 681890
+## X-Wago-ID: rkGrle6y
 ## X-License: Custom
 
 ## OptionalDeps: LibSharedMedia-3.0
